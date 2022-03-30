@@ -16,4 +16,13 @@ The goals of the course was to get familiar with different programming languages
 
 
 
+**Contibutors:**
+
+
+| Name
+| ----- 
+| Apostolis Garos
+| Nikos Vlachakis
+
+
 **[MIT LICENCE](https://github.com/ApostolisGaros/ProgrammingLanguages2021/blob/main/LICENSE)**
